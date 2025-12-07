@@ -1,0 +1,62 @@
+Q1. What is this course about?
+A1. This course covers linear programming models for resource allocation, including simplex methods, duality, sensitivity analysis, transportation problems, and extensions to large-scale and multi-objective models.
+
+Q2. What are the prerequisites for this course?
+A2. There are no formal prerequisites for this course, although prior knowledge of basic Python programming can be helpful.
+
+Q3. Where can I find course materials like lecture notes and homework assignments?
+A3. All course materials, including lecture notes, homework assignments, and solutions, will be available on the Brightspace course website.
+
+Q4. What is the required textbook for this course?
+A4. The required textbook is Optimization in Operations Research by Ronald L. Rardin, and it is available online.
+
+Q5. How is the final grade calculated?
+A5. The final grade is based on the following breakdown: Homework (25%), Class Exercises and Participation (25%), Midterm (20%), and Final Exam (30%).
+
+Q6. What is the policy on late homework submissions?
+A6. Late homework submissions are not accepted. However, the two lowest homework scores will be dropped.
+
+Q7. How should assignments be formatted?
+A7. Assignments should have a professional appearance, as if they were reports prepared for work or publication.
+
+Q8. What is expected regarding class attendance and participation?
+A8. Students are expected to attend all classes, be punctual, and actively participate in discussions and exercises after reviewing the preparation material. Frequent absences will negatively impact the grade.
+
+Q9. What is the format of the midterm and final exams?
+A9. The midterm and final exams are open book, open notes, take-home exams that are uploaded on Brightspace. Students have one attempt to complete the exam within a 24-hour window.
+
+Q10. What topics will be covered in the ISE 536 course?
+A10. The course will cover topics such as introduction to optimization, linear programming, duality theory, integer optimization, network optimization, goal programming, and large-scale optimization.
+
+Q11. How should I format my emails to the instructor and TA?
+A11. Include "ISE 536" at the beginning of the email title and copy the TA in all emails to the instructor to ensure a prompt response.
+
+Q12. What is the policy on academic integrity?
+A12. All sources of information must be cited properly. Anything taken verbatim from another source, including partial sentences, must be in quotation marks and referenced.
+
+Q13. What are some examples of academic integrity violations?
+A13. Examples include cheating, plagiarism, fabrication, collusion, and knowingly assisting others in academic dishonesty.
+
+Q14. What happens if I violate academic integrity?
+A14. All incidents of academic misconduct will be reported and could result in penalties such as failing the assignment or course, suspension, or expulsion from the university.
+
+Q15. How do I arrange disability accommodations for a course?
+A15. Register with the Office of Student Accessibility Services (OSAS), complete their process, and obtain a Letter of Accommodation (LOA) to give to your instructor, followed by a discussion.
+
+Q16. Where can I find support for my mental health?
+A16. USC offers free and confidential mental health treatment through Counseling and Mental Health at (213) 740-9355. They provide services like psychotherapy, group counseling, and crisis intervention.
+
+Q17. How can I report incidents of bias or harassment?
+A17. You can report incidents of bias, hate crimes, and microaggressions to the Office for Equity, Equal Opportunity, and Title IX (EEO-TIX) at (213) 740-5086 or (213) 821-8298.
+
+Q18. What resources are available for relationship and sexual violence prevention?
+A18. Relationship and Sexual Violence Prevention Services (RSVP) offers free and confidential therapy, workshops, and training at (213) 740-9355(WELL).  They address situations related to gender- and power-based harm.
+
+Q19. Where can I find academic accommodations if I have a disability?
+A19. The Office of Student Accessibility Services (OSAS) ensures equal access for students with disabilities by providing academic accommodations and auxiliary aids. You can contact them at (213) 740-0776.
+
+Q20. Who can I contact if I have a complex personal, financial, or academic issue?
+A20. USC Campus Support and Intervention assists students and families in resolving complex issues that may be affecting their success. They can be reached at (213) 740-0411.
+
+Q21. Where can I get confidential support for health-promoting habits and routines?
+A21. The Occupational Therapy Faculty Practice offers Confidential Lifestyle Redesign services for students. Contact them at (323) 442-2850 or otfp@med.usc.edu.

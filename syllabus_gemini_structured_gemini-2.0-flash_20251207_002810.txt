@@ -1,0 +1,62 @@
+Q1. Who is the instructor for ISE-536 Linear Programming and Extensions, and how can I contact them?
+A1. The instructor is Niloufar Izadinia, and you can reach her via email at izadinia@usc.edu or visit her website at https://viterbi.usc.edu/directory/faculty/Izadinia/Niloufar.
+
+Q2. What are the prerequisites for the ISE-536 Linear Programming and Extensions course?
+A2. There are no prerequisites for this course, making it accessible to students with minimal background in the field.
+
+Q3. Where can I find course materials, such as lecture notes and homework assignments, for ISE-536?
+A3. All handouts, including lecture notes, homework assignments, and solutions, will be posted on the Brightspace course website.
+
+Q4. What is the required textbook for this course?
+A4. The required text is "Optimization in Operations Research" by Ronald L. Rardin, first or second edition, which is available online.
+
+Q5. What is the grading breakdown for this course?
+A5. The final grade is composed of the following: Homework (25%), Class Exercises and Participation (25%), Midterm (20%), and Final Exam (30%).
+
+Q6. What are the rules regarding homework submissions?
+A6. Homework is due by midnight on Friday of the following week after it's assigned and must be submitted through Brightspace. Late submissions are not accepted, but the two lowest homework scores will be dropped. Students can work together, but must submit individual and unique solutions.
+
+Q7. How should assignments be formatted?
+A7. Assignments should be professional in appearance, as if prepared for work or publication, demonstrating attention to detail and clarity in presentation.
+
+Q8. What is expected of students in terms of class participation and attendance?
+A8. Active participation in discussions and exercises, preparation by reading assigned material, and consistent attendance for the entire duration of each class are expected. Frequent absences will negatively impact the final grade.
+
+Q9. What is the format and timing for the midterm and final exams?
+A9. Both exams are open book, open notes, and take-home, with calculators permitted but laptops/desktops required. Students have until midnight of the following day to complete and upload the exam to Brightspace, with only one attempt allowed.
+
+Q10. When is the final exam scheduled?
+A10. The final exam is tentatively scheduled for Wednesday, December 10, 2025, at 4:30 pm.
+
+Q11. What topics will be covered in ISE 536?
+A11. The course will cover topics such as linear programming, duality theory, integer optimization, network optimization, goal programming, and large-scale optimization.
+
+Q12. How should I format my emails to the instructor and TA?
+A12. Include "ISE 536" at the beginning of your email titles and copy the TA on all emails to the instructor to ensure a prompt response.
+
+Q13. What constitutes academic dishonesty?
+A13. Academic dishonesty includes submitting work that isn't your own, cheating, plagiarism, fabrication of data, collusion, helping others cheat, or any act that unfairly improves your academic standing. Always ensure your work is original and properly attributed to avoid these issues.
+
+Q14. What are the potential consequences of academic dishonesty?
+A14. Instances of academic misconduct can result in serious penalties, including failure on an assignment, failure in the course, suspension from the university, or even expulsion. All incidents are reported to the Office of Academic Integrity.
+
+Q15. How can students with disabilities receive accommodations?
+A15. Students needing accommodations should register with the Office of Student Accessibility Services (OSAS). Once approved, a Letter of Accommodation (LOA) is generated for each course and must be discussed with the instructor.
+
+Q16. How can I obtain accommodations for disabilities at USC?
+A16. Contact the Office of Student Accessibility Services (OSAS) as early as possible in the semester since accommodations are not retroactive. You can reach them at (213) 740-0776 or osasfrontdesk@usc.edu. More information is available at osas.usc.edu.
+
+Q17. What mental health support services are available to USC students?
+A17. USC offers free and confidential mental health treatment through Counseling and Mental Health at (213) 740-9355, available 24/7. Additional resources include the 988 Suicide and Crisis Lifeline and Relationship and Sexual Violence Prevention Services (RSVP) at (213) 740-9355.
+
+Q18. How do I report incidents of bias, harassment, or discrimination at USC?
+A18. You can report incidents of bias, hate crimes, and microaggressions to the Office for Equity, Equal Opportunity, and Title IX (EEO-TIX) at (213) 740-5086. You can also report incidents by calling (213) 821-8298.
+
+Q19. How can I request academic accommodations or auxiliary aids for a disability?
+A19. Contact the Office of Student Accessibility Services (OSAS) at (213) 740-0776. They ensure equal access for students with disabilities in accordance with federal laws and university policy.
+
+Q20. Where can I report a crime or get emergency assistance at USC?
+A20. For emergencies, contact USC Emergency at UPC: (213) 740-4321 or HSC: (323) 442-1000, available 24/7. You can also contact the USC Department of Public Safety for non-emergency assistance at UPC: (213) 740-6000 or HSC: (323) 442-1200, also available 24/7.
+
+Q21. What is the role of the Office of the Ombuds?
+A21. The Office of the Ombuds provides a safe and confidential space to discuss USC-related issues. A University Ombuds will work with you to explore options to manage your concerns.

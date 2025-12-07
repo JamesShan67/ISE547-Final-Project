@@ -1,0 +1,62 @@
+Q1. What are the main topics covered in the ISE-536 course?
+A1. The ISE-536 course covers linear programming models for resource allocation, simplex methods, duality, sensitivity analysis, transportation problems, and selected extensions to large scale and multi-objective models.
+
+Q2. Who is the instructor for the ISE-536 course and how can I contact them?
+A2. The instructor for the ISE-536 course is Niloufar Izadinia. You can contact her via email at izadinia@usc.edu.
+
+Q3. What are the prerequisites for enrolling in the ISE-536 course?
+A3. There are no prerequisites for enrolling in the ISE-536 course, making it accessible for those with minimal background in the field.
+
+Q4. What textbooks are required for the course?
+A4. The required textbook is 'Optimization in Operations Research' by Ronald L. Rardin, available online. Additional references include works by Winston, Badiru and Omitaomu, Eiselt and Sandblom, and Ravindran, all of which are available online.
+
+Q5. How is the grading structured for the course?
+A5. The grading is divided as follows: Homework 25%, Class Exercises and Participation 25%, Midterm 20%, and Final Exam 30%.
+
+Q6. What are the policies regarding homework submissions?
+A6. Homework is due at midnight on Fridays and must be submitted through Brightspace; late submissions are not accepted. However, the two lowest homework scores will be dropped.
+
+Q7. What is expected regarding class attendance and participation?
+A7. Students are expected to attend all classes for the full duration and participate actively in discussions and exercises. Frequent absences will lead to a reduction in grade.
+
+Q8. What are the requirements for in-class exercises and mini-projects?
+A8. Students must use laptops, desktops, or iPads to complete and submit in-class exercises, which will be done in pre-assigned teams.
+
+Q9. How are the midterm and final exams structured?
+A9. The midterm and final exams are open book and open notes, take-home assessments that must be uploaded on Brightspace. Students have until midnight the day after the exam to complete it, with only one attempt allowed.
+
+Q10. What is the grading scale for the course ISE 536?
+A10. The grading scale for ISE 536 is as follows: A [95, 100], A- [90, 95), B+ [87, 90), B [84, 87), B- [80, 84), C+ [77, 80), C [74, 77), C- [70, 74), D+ [67, 70), D [64, 67), D- [60, 64), and F < 60.
+
+Q11. How should I communicate with the instructor and TA for ISE 536?
+A11. When emailing the instructor, always copy the TA and include 'ISE 536' at the beginning of your email title to ensure a prompt response.
+
+Q12. What topics are covered in the ISE 536 course outline?
+A12. The ISE 536 course covers topics including optimization introduction, linear programming, duality theory, discrete optimization, network optimization, and large-scale optimization.
+
+Q13. What constitutes academic dishonesty at the university?
+A13. Academic dishonesty includes cheating, plagiarism, fabrication, collusion, and any act intended to gain an unfair academic advantage. Submitting work not originally created for the course or recycling work from other courses without permission also falls under this category.
+
+Q14. What are the potential consequences of academic misconduct?
+A14. Consequences of academic misconduct can include failure on the assignment, failure in the course, suspension, or even expulsion from the university. All incidents will be reported to the Office of Academic Integrity.
+
+Q15. How can students with disabilities receive accommodations?
+A15. Students with disabilities can receive accommodations by registering with the Office of Student Accessibility Services (OSAS), completing the initial appointment, and submitting required documentation. Once accommodations are determined, a Letter of Accommodation (LOA) will be provided for each course.
+
+Q16. How can I request accommodations at USC?
+A16. You should request accommodations as early in the semester as possible, as they are not retroactive. More information can be found at osas.usc.edu.
+
+Q17. What mental health services are available to USC students?
+A17. USC offers free and confidential mental health treatment through Counseling and Mental Health, available 24/7 at (213) 740-9355, including psychotherapy and crisis intervention.
+
+Q18. What should I do if I experience harassment or discrimination at USC?
+A18. You can contact the Office for Equity, Equal Opportunity, and Title IX at (213) 740-5086 for information on reporting options and resources related to harassment or discrimination.
+
+Q19. What services does the Office of Student Accessibility Services (OSAS) provide?
+A19. OSAS ensures equal access for students with disabilities by providing academic accommodations and auxiliary aids in accordance with federal laws and university policy.
+
+Q20. How can I get emergency assistance at USC?
+A20. For emergency assistance, you can contact USC Emergency at UPC: (213) 740-4321 or HSC: (323) 442-1000, which is available 24/7.
+
+Q21. What support does the Office of the Ombuds offer?
+A21. The Office of the Ombuds provides a safe and confidential space for students to discuss USC-related issues and explore options to manage their concerns.

@@ -1,0 +1,62 @@
+Q1. What are the class days and times for ISE-536?
+A1. ISE-536 meets on Tuesdays and Thursdays from 4:00 PM to 5:50 PM.
+
+Q2. Who is the instructor for the course and how can I contact them?
+A2. The instructor is Niloufar Izadinia, and you can contact her via email at izadinia@usc.edu.
+
+Q3. Is there a prerequisite for enrolling in ISE-536?
+A3. No, there are no prerequisites for enrolling in ISE-536.
+
+Q4. What is the required textbook for the course?
+A4. The required textbook is 'Optimization in Operations Research' by Ronald L. Rardin, either the first or second edition.
+
+Q5. How is the grading structured for this course?
+A5. The grading is divided as follows: Homework 25%, Class Exercises and Participation 25%, Midterm 20%, and Final Exam 30%.
+
+Q6. What are the rules regarding homework submissions?
+A6. Homework is due at midnight on Friday of the following week, late submissions are not accepted, and the two lowest scores will be dropped. Students may collaborate but must submit individual work.
+
+Q7. What is expected regarding class attendance and participation?
+A7. Students are expected to attend all classes and participate actively in discussions and exercises. Frequent absences may lead to a reduction in grade.
+
+Q8. How are the midterm and final exams structured?
+A8. Both exams are open book and open notes, take-home assignments that must be uploaded on Brightspace. Students have until midnight the following day to complete them.
+
+Q9. What tools are required for in-class exercises?
+A9. Students must have laptops, desktops, or iPads to complete and submit in-class exercises, which are done in pre-assigned teams.
+
+Q10. What are the key topics covered in the course?
+A10. The course covers topics such as optimization introduction, linear programming, duality theory, discrete optimization, network optimization, and multi-objective optimization.
+
+Q11. How should I communicate with the instructor and TA?
+A11. Always copy the TA in your emails to the instructor and include 'ISE 536' in the subject line for prompt responses.
+
+Q12. What is the grading scale for the course?
+A12. The grading scale ranges from A (95-100) to F (<60), with specific ranges for each grade in between.
+
+Q13. What constitutes academic dishonesty?
+A13. Academic dishonesty includes cheating, plagiarism, fabrication of data, collusion, and any act intended to gain an unfair academic advantage.
+
+Q14. What are the consequences of academic misconduct?
+A14. Consequences can include failure on the assignment, failure in the course, suspension, or even expulsion from the university.
+
+Q15. How can students with disabilities receive accommodations?
+A15. Students should register with the Office of Student Accessibility Services (OSAS), complete the initial appointment, and submit documentation to determine appropriate accommodations.
+
+Q16. How can I request accommodations for my classes?
+A16. You should request accommodations as early in the semester as possible, as they are not retroactive. More information can be found at osas.usc.edu.
+
+Q17. What mental health support services are available for students?
+A17. Students can access free and confidential mental health treatment through Counseling and Mental Health at (213) 740-9355, available 24/7.
+
+Q18. What should I do if I experience harassment or discrimination?
+A18. You can contact the Office for Equity, Equal Opportunity, and Title IX at (213) 740-5086 for help and information on reporting options.
+
+Q19. What services does the Office of Student Accessibility Services provide?
+A19. The Office of Student Accessibility Services ensures equal access for students with disabilities by providing academic accommodations and auxiliary aids in accordance with federal laws and university policy.
+
+Q20. How can I get emergency assistance at USC?
+A20. For emergency assistance, you can call USC Emergency at UPC: (213) 740-4321 or HSC: (323) 442-1000, which is available 24/7.
+
+Q21. What support does the USC Campus Support and Intervention offer?
+A21. USC Campus Support and Intervention assists students and families in resolving complex personal, financial, and academic issues that may affect student success.
